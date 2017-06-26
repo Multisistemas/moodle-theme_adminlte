@@ -1,8 +1,13 @@
-# AdminLTE #
+# AdminLTE Moodle Theme #
 
-TODO Describe the plugin shortly here.
-
-TODO Provide more detailed description here.
+Usage:
+ 1. Got to your moodle/theme folder.
+ 2. Clone this repo:
+    $ git clone https://github.com/Multisistemas/moodle-theme_adminlte.git adminlte
+ 2. Install dependencies:
+    $ composer install
+ 3. Install theme from moodle web administration.
+ 4. Enjoy.
 
 ## License ##
 
